@@ -1,2 +1,2 @@
-# -CSS-SVG-s
+# -CSS-SVG-s.
 By. Konstantin Denerz
